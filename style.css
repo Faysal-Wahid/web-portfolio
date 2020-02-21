@@ -43,6 +43,11 @@ section{
     border-radius: 10px;
     color: whitesmoke;
     font-weight: 800;
+
+}
+.link-button:hover{
+    color: black;
+    font-size: 30px;
 }
 .dream-land{
     background-image: url("images/dream-bg.png");
